@@ -7,7 +7,7 @@ Ein simples Desktop-Tool zur Erstellung druckbarer Zither-Unterlegeblätter als 
 Die Noten werden in einer GUI NOte für Note eingegeben (Noten, Pausen (Experiementell), punktierte Noten, Akkorde) und anschließend direkt als PDF exportiert.
 Die unterlageblätter sind, wenn in DIN A4 format ausgedruckt direkt mit einer 6/25 Zither in Standardstimmung spielbar. 
 
-Disclaimer: Dieses Projekt wurde zum größten Teil mit der Hilfe von KI erstellt und ist nicht für kommerzielle Zwecke geeignet!
+Disclaimer: Dieses Projekt wurde nur zum Spaß und zum größten Teil mit der Hilfe von KI erstellt und ist nicht für kommerzielle Zwecke geeignet!
 
 ![GUI_Screenshot.png](GUI_Screenshot.png)
 ![Nonsense_Example.png](Nonsense_Example.png)
@@ -51,7 +51,7 @@ You enter notes event-by-event in a GUI, assign voices, rests, dotted notes, and
 
 When printed on standard DIN A4 paper, the resulting sheets will be directly playable on a standard 6/25 zither
 
-Disclaimer: This Project was largely developed with the help of AI and is not intended to be used commercially!
+Disclaimer: This Project was cerated just for fun and was largely developed with the help of AI and is not intended to be used commercially!
 
 ### Features
 
