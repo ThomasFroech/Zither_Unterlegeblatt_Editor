@@ -26,6 +26,7 @@ Disclaimer: Dieses Projekt wurde nur zum Spaß und zum größten Teil mit der Hi
 
 ### Voraussetzungen
 
+- Zither mit 6 Akkorden und 25 Melodiesaiten
 - Python 3.10+
 - reportlab
 - Tkinter 
@@ -64,6 +65,7 @@ Disclaimer: This Project was cerated just for fun and was largely developed with
 - 
 ### Requirements
 
+- Zither with 6 chords and 25 melody strings
 - Python 3.10+
 - reportlab
 - Tkinter 
