@@ -8,12 +8,11 @@ Die Noten werden in einer GUI Note für Note eingegeben (Noten, Pausen (Experiem
 Die Unterlageblätter sind, wenn in DIN A4 format ausgedruckt direkt mit einer 6/25 Zither in Standardstimmung spielbar. 
 
 Disclaimer: Dieses Projekt wurde nur zum Spaß und zum größten Teil mit der Hilfe von KI erstellt und ist nicht für kommerzielle Zwecke geeignet!
+Das Projekt wurde getestet unter macOS Tahoe Version 26.2 (25C56)
 
 ![GUI_Screenshot.png](GUI_Screenshot.png)
 ![Nonsense_Example.png](Nonsense_Example.png)
 ![6_26_Zither.png](6_26_Zither.png)
-
-
 
 ### Funktionen
 
@@ -42,6 +41,7 @@ Disclaimer: Dieses Projekt wurde nur zum Spaß und zum größten Teil mit der Hi
 - `melody_input.json` - gespeicherte Projekteingaben
 - `unterlegeblatt.pdf` - erzeugte Ausgabe (oder benutzerdefinierter Pfad)
 
+
 ---
 
 ## English
@@ -54,6 +54,7 @@ When printed on standard DIN A4 paper, the resulting sheets will be directly pla
 
 Disclaimer: This Project was cerated just for fun and was largely developed with the help of AI and is not intended to be used commercially!
 
+This project was developed and tested under macOS Tahoe Version 26.2 (25C56)
 ### Features
 
 - GUI-based note entry 
