@@ -63,7 +63,7 @@ This project was developed and tested under macOS Tahoe Version 26.2 (25C56)
 - Simultaneous chords on notes 
 - Chords between notes
 - Chord string-count variants
-- 
+
 ### Requirements
 
 - Zither with 6 chords and 25 melody strings
